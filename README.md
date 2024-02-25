@@ -11,7 +11,7 @@ npm start
 ```
 ---
  
-### v2 Landing Page (Optimize  code using Map Functions and Props)
+### v2 Landing Page (Optimize  code using map functions and Props)
 ![image](https://github.com/as183789043/Keeper_APP/assets/56618553/07962834-11c9-4830-ba04-e5aff04eb173)
 
 
