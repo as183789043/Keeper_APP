@@ -1,12 +1,16 @@
-## Keeper_APP  
-### Record your idea everywhere
+## Keeper_APP  - Record your idea everywhere
+---
 
 ### Quick Start 
+#### Tip if start server error  Check this link [solution](https://stackoverflow.com/questions/74726224/opensslerrorstack-error03000086digital-envelope-routinesinitialization-e)
 ```
 git clone https://github.com/as183789043/Keeper_APP.git
 cd  Keeper_APP
 npm i
+npm start 
 ```
+---
+ 
 
 
 ### v1 Landing Page  (Just render an array of notes to the front-end )
