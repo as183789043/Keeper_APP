@@ -10,7 +10,7 @@ npm i
 npm start 
 ```
 ---
-### v3 Landing Page ADD function
+### v3 Landing Page 
 ![;andinf page](https://github.com/as183789043/Keeper_APP/assets/56618553/8bef31f3-234b-4cb4-9314-eb20aea27535)
 
 ####  ADD,DELETE Item and Some Material Icons 
